@@ -1,0 +1,29 @@
+TextToSpeech -- INFO FILE
+==========================
+
+@author: Ankit Bahuguna (M.Sc. Informatics, TU Munchen)
+@Homework Number: 1
+@Android Praktikum: SS2014
+@Submission Date: 16.04.2014
+
+This application has been developed on Android API 19 (KitKat 4.4) using ADT.
+
+
+LICENSE AND USAGE
+===================
+* This homework is released under Apache 2.0. license.
+
+* This project may be used by the TUM for teaching/research purposes.
+
+
+Additional Resources 
+====================
+The following resources were consulted during the development of the project:
+
+* http://www.vogella.com/tutorials/android.html
+* http://www.codeproject.com/Articles/655709/Using-Text-to-Speech-TTS-engine-in-an-Android-appl
+* http://android-developers.blogspot.de/2009/09/introduction-to-text-to-speech-in.html
+* http://www.tutorialspoint.com/android/android_text_to_speech.htm
+
+
+Thanks!
